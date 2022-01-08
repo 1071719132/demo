@@ -28,6 +28,7 @@ public class ArData {
     @AllArgsConstructor
     @Data
     public static class RmData {
+
         private String name;
         private Detail data;
     }
